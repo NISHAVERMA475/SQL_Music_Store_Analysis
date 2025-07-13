@@ -51,3 +51,11 @@ Clone this repository
 Load the SQL database into MySQL
 
 Run queries from music_store_queries.sql (or notebook, if you created one)
+
+✅ Database and Tools
+
+ MySQL Workbench
+ Schema- Music Store Database
+
+ <img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/7904885e-c4e2-4455-931e-8ebdba4858c5" />
+
