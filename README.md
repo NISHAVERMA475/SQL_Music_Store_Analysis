@@ -1,5 +1,6 @@
 🎶 Music Store SQL Analysis
 This project explores a music store database using SQL queries to answer business questions related to customer behavior, sales performance, and music trends.
+
 📌 Project Objective
 Analyze customer purchasing patterns, genre popularity, top artists, and track statistics using SQL to drive data-backed music store decisions.
 
